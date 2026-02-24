@@ -3,4 +3,5 @@ __pycache__/
 .ipynb_checkpoints/
 *.pyc
 .env
+.vscode
 datasets/electronic_ecommerce.csv
